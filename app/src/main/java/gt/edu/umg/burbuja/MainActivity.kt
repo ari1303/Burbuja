@@ -24,6 +24,7 @@ class MainActivity : ComponentActivity() {
                         name = "Android",
                         modifier = Modifier.padding(innerPadding)
                         println("Hola probando")
+                        //233333655555hol
                     )
                 }
             }
